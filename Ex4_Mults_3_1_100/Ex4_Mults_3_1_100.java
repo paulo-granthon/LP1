@@ -1,5 +1,6 @@
+package Ex4_Mults_3_1_100;
 // Multiplos de 3 entre 1 e 100
-public class Mults3_1_100 {
+public class Ex4_Mults_3_1_100 {
 
     public void main (String[] args) {
         for (int i = 1; i < 100; i++) {
