@@ -19,7 +19,7 @@ public class Ex7 {
                 System.out.println("Insira o valor da posição (x / o): ");
                 value = sc.next().charAt(0);
             }
-            board[x][y] = value;
+            board[x - 1][y - 1] = value;
             sc.close();
         }
     }
