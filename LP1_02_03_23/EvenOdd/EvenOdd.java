@@ -1,4 +1,4 @@
-package LP1_02_03_23.EvenOdd;
+package EvenOdd;
 import java.util.Random;
 import java.util.Scanner;
 

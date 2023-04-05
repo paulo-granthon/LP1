@@ -1,4 +1,4 @@
-package LP1_02_03_23.Ex3_Sum_1_1000;
+package Ex3_Sum_1_1000;
 // Soma de todos os numeros entre 1 e 1000
 public class Ex3_Sum_1_1000 {
 

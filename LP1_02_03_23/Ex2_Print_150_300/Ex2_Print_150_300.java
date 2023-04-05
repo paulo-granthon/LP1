@@ -1,4 +1,4 @@
-package LP1_02_03_23.Ex2_Print_150_300;
+package Ex2_Print_150_300;
 // Print de todos os numeros de 150 a 300
 public class Ex2_Print_150_300 {
 

@@ -1,4 +1,4 @@
-package LP1_02_03_23.Ex4_Mults_3_1_100;
+package Ex4_Mults_3_1_100;
 // Multiplos de 3 entre 1 e 100
 public class Ex4_Mults_3_1_100 {
 
