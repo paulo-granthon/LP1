@@ -1,3 +1,4 @@
+package LP1_29_03_23;
 import java.util.Scanner;
 public class Ex3 {
     public static void main(String[] args) {

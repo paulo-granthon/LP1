@@ -1,4 +1,4 @@
-package BalancoTrimestral;
+package LP1_02_03_23.BalancoTrimestral;
 
 // 1.
 public class BalancoTrimestral {

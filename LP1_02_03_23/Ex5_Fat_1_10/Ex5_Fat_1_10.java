@@ -1,4 +1,4 @@
-package Ex5_Fat_1_10;
+package LP1_02_03_23.Ex5_Fat_1_10;
 // Printa todos os fatorias de 1 a 10
 public class Ex5_Fat_1_10 {
     public static void main (String[] args) {

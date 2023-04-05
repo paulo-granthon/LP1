@@ -1,6 +1,7 @@
+package LP1_14_03_23;
 import java.util.Scanner;
 
-public class _Ex5 {
+public class Ex5 {
     public static void main (String[] args) {
 
         a();

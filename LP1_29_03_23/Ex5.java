@@ -1,3 +1,4 @@
+package LP1_29_03_23;
 import java.util.Scanner;
 import java.util.concurrent.ThreadLocalRandom;
 public class Ex5 {
