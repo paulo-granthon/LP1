@@ -13,9 +13,12 @@ public class Ex5 {
         for (int i = 0; i < n; i++) {
             int num = sc.nextInt();
             if (num == numbers[i]) {
-                System.out.println("O número " + num + " está no índice " + i + " na array\n" + numbers);    
+                System.out.println("O número " + num + " está no índice " + i + " na array\n" + numbers);
+            } else {
+                // System.out.println("O número " + num + " está no índice " + i + " na array\n" + numbers);
             }
         }
         sc.close();
 	}
 }
+// https://docs.google.com/spreadsheets/d/1eQSLCbuXcVTmkT7b4MCg_thQHrnkjT1wtnMDeEhPFBI/edit#gid=449727251
