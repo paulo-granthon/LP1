@@ -1,8 +1,8 @@
 package org.openjfx.lp1_18_04_23;
 
-import org.openjfx.lp1_18_04_23.Classes.Pessoa;
-import org.openjfx.lp1_18_04_23.Classes.Lugar;
-import org.openjfx.lp1_18_04_23.Classes.Veiculo;
+import org.openjfx.lp1_18_04_23.classes.Lugar;
+import org.openjfx.lp1_18_04_23.classes.Pessoa;
+import org.openjfx.lp1_18_04_23.classes.Veiculo;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.DatePicker;

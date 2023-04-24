@@ -1,4 +1,4 @@
-package org.openjfx.lp1_18_04_23.Classes;
+package org.openjfx.lp1_18_04_23.classes;
 
 public class Veiculo {
     String modelo;
