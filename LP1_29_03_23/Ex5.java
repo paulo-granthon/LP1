@@ -15,21 +15,11 @@ public class Ex5 {
         int num = sc.nextInt();
         boolean found = false;
         for (int i = 0; i < n; i++) {
-<<<<<<< HEAD
-            int num = sc.nextInt();
-            if (num == numbers[i]) {
-                System.out.println("O número " + num + " está no índice " + i + " na array\n" + numbers);
-            } else {
-                // System.out.println("O número " + num + " está no índice " + i + " na array\n" + numbers);
-            }
-=======
             if (num != numbers[i]) continue;
             System.out.println("O número " + num + " está no índice " + i + " na array " + numbers_str);
             found = true;
->>>>>>> ad27abf682c241d087a5b4c466bb5ebc17fcaadb
         }
         if (!found) System.out.println("O número " + num + " não está na array " + numbers_str);
         sc.close();
 	}
 }
-// https://docs.google.com/spreadsheets/d/1eQSLCbuXcVTmkT7b4MCg_thQHrnkjT1wtnMDeEhPFBI/edit#gid=449727251
